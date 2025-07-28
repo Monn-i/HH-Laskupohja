@@ -1,0 +1,2 @@
+# Laskupohja
+Ilmainen viivakoodillinen laskupohja
