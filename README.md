@@ -7,6 +7,9 @@ Helposti muokattava, automaattinen Excel laskupohja helppoon laskujen kirjoittam
 - [x] Kansainvälisten viitteiden muodostus
 - [x] Ei makroja
 
+Viivakoodien ja viitteiden muodostamiseen käytetyt lähteet:
+[https://www.finanssiala.fi/aiheet/maksujenvalityksen-tekniset-kuvaukset](https://www.finanssiala.fi/aiheet/maksujenvalityksen-tekniset-kuvaukset)
+
 Lataa tästä viimeisin versio: [HH-Laskupohja.xltx](https://github.com/Monn-i/HH-Laskupohja/raw/refs/heads/main/HH-Laskupohja.xltx)
 
 ## Miksi?
