@@ -7,6 +7,8 @@ Helposti muokattava, automaattinen laskupohja helppoon laskujen kirjoittamiseen!
 - [x] Kansainvälisten viitteiden muodostus
 - [x] Ei makroja
 
+Lataa tästä viimeisin versio: [HH-Laskupohja.xltx](https://github.com/Monn-i/HH-Laskupohja/raw/refs/heads/main/HH-Laskupohja.xltx)
+
 ## Miksi?
 Tarvitsin itselleni helpon pohjan, enkä löytänyt vastaavaa vaan aina jostain puuttui jotain. Jaossa nyt kaikille!
 
