@@ -11,5 +11,5 @@ Helposti muokattava, automaattinen laskupohja helppoon laskujen kirjoittamiseen!
 Tarvitsin itselleni helpon pohjan, enkä löytänyt vastaavaa vaan aina jostain puuttui jotain. Jaossa nyt kaikille!
 
 ## Riippuvuudet
-Järjestelmään täytyy asentaa erillinen viivakoodifontti. Linkki tämän lataamisenn löytyy laskupohjan välilehdiltä, tai tästä linkistä Googlen arkistosta:
+Järjestelmään täytyy asentaa erillinen viivakoodifontti. Linkki tämän lataamiseen löytyy laskupohjan välilehdiltä, tai tästä linkistä Googlen arkistosta:
 [https://fonts.google.com/specimen/Libre+Barcode+128](https://fonts.google.com/specimen/Libre+Barcode+128)
